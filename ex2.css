@@ -1,0 +1,11 @@
+h1 {text-align: center; font-family: cursive;}
+#food {background-color: steelblue; padding: 20px; width: 50%; text-align: center; margin-left: auto; 
+	margin-right: auto; border: solid; border-color: royalblue;}
+div {font-size: x-large; font-weight: bold; font-family: monospace;}
+p {font-size: medium; text-align: left;}
+#sisig {background-color: olive; padding: 20px; width: 50%; text-align: center; margin-left: auto; 
+	margin-right: auto; border: solid; border-color: darkgreen;}
+#pizza {background-color: hotpink; padding: 20px; width: 50%; text-align: center; margin-left: auto; 
+	margin-right: auto; border: solid; border-color: palevioletred;}
+p {font-size: small;}
+a {font-size: small;}
